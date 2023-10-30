@@ -101,6 +101,10 @@
     .educationItemDetails ul {
         font-size: 16px; /* Adjust the font size for list items on mobile */
   }
+
+    .education {
+        margin-bottom: 35px; /* Add margin to the bottom of the experience section */
+  }
   }
 
 

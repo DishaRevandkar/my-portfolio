@@ -83,4 +83,8 @@
     letter-spacing: 1.25px; /* Adjust the letter spacing for mobile */
   }
 
+  .contact{
+    margin-bottom: 20px
+  }
+
 }

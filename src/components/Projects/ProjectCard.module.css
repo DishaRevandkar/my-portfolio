@@ -67,11 +67,11 @@
   }
 
   .description {
-    font-size: 20px; /* Adjust description font size for mobile */
+    font-size: 14px; /* Adjust description font size for mobile */
   }
 
   .skill {
-    font-size: 20px; /* Adjust skill font size for mobile */
+    font-size: 16px; /* Adjust skill font size for mobile */
   }
 
   .link {

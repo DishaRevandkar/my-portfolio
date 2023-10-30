@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Pneumonia Detection using Deep Convolutional Neural network",
+    "imageSrc": "projects/chest.png",
+    "description": "This is a project made to classify chest X-ray images as normal or positive for pneumonia using the VGG19 architecture.",
+    "skills": ["Python", "TensorFlow", "pandas", "NumPy"],
+    "demo": "https://github.com/DishaRevandkar/Pneumonia-Detection-using-Deep-Convolutional-Neural-Network"
+  },
+  {
+    "title": "Data Analysis and Visualization of Customer Reviews",
+    "imageSrc": "projects/data.png",
+    "description": "This is a project made to give customers and businesses a comprehensive view of customer preferences and trends using Big Data Analysis.",
+    "skills": ["Python", "pandas", "matplotlib", "MySQL"],
+    "demo": "https://github.com/DishaRevandkar/Data-Analysis-and-Visualization-of-Amazon-Customer-Reviews"
+  },
+  {
+    "title": "Fill in the Blanks: Image Inpainting & Colorization",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to do task like image inpainting, colorization and denoising using Generative Adversarial Networks and Deep Image Prior Model.",
+    "skills": ["Python", "Pytorch", "Tensorflow", "pandas"],
+    "demo": "https://github.com/DishaRevandkar/Fill-in-the-Blanks"
+  },
+  {
+    "title": "Through Wall Activity Recognition System using Wi-Fi",
+    "imageSrc": "projects/activity.png",
+    "description": "This is a project made to capture and identify human activities in a closed room using WiFI data",
+    "skills": ["Python", "Pytorch", "Tensorflow", "pandas"],
+    "demo": "https://github.com/DishaRevandkar/WifiRecog.git"
+  },
+  {
+    "title": "Irrigation Treatment Inference of Cotton Images using Computer Vision",
+    "imageSrc": "projects/cotton.png",
+    "description": "This is a project classifies irrigation treatments of cotton iamges based on object segmentation and image analysis techniques",
+    "skills": ["MATLAB", "Computer Vision"],
+    "demo": "https://github.com/DishaRevandkar/Irrigation-Treatment-Inference-of-Cotton-Images-using-Computer-Vision"
+  },
+  {
+    "title": "Disaster Response System using LoRa Devices",
+    "imageSrc": "projects/disaster.png",
+    "description": "This is a project made to develope a robust and fault-tolerant disaster management system for wider network coverage across affected areas.",
+    "skills": ["MATLAB", "LoRaWAN", "System Design"],
+    "demo": "https://github.com/DishaRevandkar/WifiRecog.git"
+  }
+
+]

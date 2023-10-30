@@ -1,0 +1,29 @@
+[
+    {
+      "degree": "Bachelor of Science in Electronics and Telecommunication",
+      "institution": "Thakur College of Engineering and Technology, University of Mumbai",
+      "startDate": "August, 2017",
+      "endDate": "July, 2021",
+      "highlights": [
+        "Participated in programming competitions organized by NASA.",
+        "Participated in GoogleAI ExploreML challenge.",
+        "Thesis on Generative Adversarial Networks for Imgae Generation tasks.",
+        "Coursework in Big Data, Image Processing, Database Management System, Computer Networks, Object-Oriented Programming, Applied Mathematics"
+      ],
+      "imageSrc": "education/tcet.png"
+    },
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Rochester Institute of Technology",
+      "startDate": "August, 2021",
+      "endDate": "May, 2024",
+      "highlights": [
+        "Academic Scholarship Awardee.",
+        "Teaching assistant for the graduate machine learning course.",
+        "Member of Women in Computing at RIT",
+        "Coursework in Object Oriented Programming, Data Structures, Computer Science Theory, Cryptography, Big Data, Algorithms, Artificial Intelligence, Database System Implementation, Machine Learning, Computer Vision, Distributed Systems, Web Development"
+      ],
+      "imageSrc": "education/rit.png"
+    }
+  ]
+  

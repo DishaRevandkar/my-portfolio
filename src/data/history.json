@@ -1,0 +1,21 @@
+[
+  {
+    "role": "SWE Intern",
+    "organisation": "Reliance Jio Infocomm",
+    "startDate": "Dec, 2019",
+    "endDate": "Jan, 2020",
+    "experiences": ["Seamlessly integrated weather and market features into the chatbot, enhancing user engagement.",
+    "Rigorously tested multiple APIs using Postman for optimal functionality and reliability.",
+    "Designed conversational flow diagrams for an intuitive chatbot user experience."],
+    "imageSrc": "history/reliance.png"
+  },
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "Larsen & Toubro Infotech",
+    "startDate": "June, 2019",
+    "endDate": "July, 2019",
+    "experiences": ["Achieved 93% accuracy classifying client feedback using Logistic Regression, SVM, KNN, and CNN.", " Enhanced data quality through preprocessing: stop words removal, tokenization.",
+  " Analyzed confusion matrices for error insights.","Gained proficiency in fundamental machine learning principles including feature engineering, model selection, and evaluation techniques"],
+    "imageSrc": "history/lti.png"
+  }
+]

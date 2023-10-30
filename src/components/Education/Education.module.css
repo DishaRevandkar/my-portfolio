@@ -91,11 +91,11 @@
   }
 
     .educationItemDetails h3 {
-        font-size: 24px; /* Adjust the heading font size for mobile */
+        font-size: 18px; /* Adjust the heading font size for mobile */
     }
 
     .educationItemDetails p {
-        font-size: 18px; /* Adjust the paragraph font size for mobile */
+        font-size: 14px; /* Adjust the paragraph font size for mobile */
     }
 
     .educationItemDetails ul {

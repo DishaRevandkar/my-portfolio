@@ -95,8 +95,12 @@
     }
 
     .educationItemDetails p {
-        font-size: 14px; /* Adjust the paragraph font size for mobile */
+        font-size: 18px; /* Adjust the paragraph font size for mobile */
     }
+
+    .educationItemDetails ul {
+        font-size: 16px; /* Adjust the font size for list items on mobile */
+  }
   }
 
 

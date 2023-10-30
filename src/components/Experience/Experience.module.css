@@ -76,6 +76,11 @@
     gap: 34px;
   }
 
+  .title {
+  font-size: 25px;
+
+  }
+
 
   .history {
     width: 100%;

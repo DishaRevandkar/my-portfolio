@@ -87,9 +87,12 @@
     gap: 9px;
   }
 
-  .container {
-    margin: 10px;
-  }
+  .container{
+        margin-top: 79px;
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
 
 
   .historyItem {

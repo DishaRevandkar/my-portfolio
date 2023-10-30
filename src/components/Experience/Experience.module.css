@@ -101,4 +101,16 @@
   .historyItemDetails p {
     font-size: 18px;
   }
+
+  .historyItemDetails h3 {
+    font-size: 18px; /* Reduce the heading font size for mobile */
+  }
+
+  .historyItemDetails p {
+    font-size: 14px; /* Reduce the paragraph font size for mobile */
+  }
+
+  .historyItemDetails ul {
+    font-size: 16px; /* Reduce the font size for list items on mobile */
+  }
 }

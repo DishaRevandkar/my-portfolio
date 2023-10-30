@@ -64,11 +64,11 @@
   }
 
   .text h2 {
-    font-size: 25; /* Adjust heading font size for mobile */
+    font-size: 25px; /* Adjust heading font size for mobile */
   }
 
   .text p {
-    font-size: 14; /* Adjust paragraph font size for mobile */
+    font-size: 14px; /* Adjust paragraph font size for mobile */
   }
 
   .links {

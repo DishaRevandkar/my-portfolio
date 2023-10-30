@@ -78,6 +78,12 @@
       gap: 9px;
     }
 
+    .container{
+        margin-top: 79px;
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
     .title {
       font-size: 25px; /* Adjust the font size for mobile devices */
     }

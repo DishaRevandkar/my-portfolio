@@ -94,15 +94,7 @@
     width: 100%;
   }
 
-  .historyItemDetails h3 {
-    font-size: 24px;
-  }
-
-  .historyItemDetails p {
-    font-size: 18px;
-  }
-
-  .historyItemDetails h3 {
+ .historyItemDetails h3 {
     font-size: 18px; /* Reduce the heading font size for mobile */
   }
 
@@ -111,6 +103,6 @@
   }
 
   .historyItemDetails ul {
-    font-size: 16px; /* Reduce the font size for list items on mobile */
+    font-size: 16px; 
   }
 }

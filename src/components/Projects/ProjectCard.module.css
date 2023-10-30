@@ -61,3 +61,20 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+@media screen and (max-width: 830px) {
+  .title {
+    font-size: 20px; /* Adjust title font size for mobile */
+  }
+
+  .description {
+    font-size: 20px; /* Adjust description font size for mobile */
+  }
+
+  .skill {
+    font-size: 20px; /* Adjust skill font size for mobile */
+  }
+
+  .link {
+    font-size: 25px; /* Adjust link font size for mobile */
+  }
+}

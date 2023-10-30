@@ -78,7 +78,7 @@
   .link a {
     color: var(--color-text);
     text-decoration: none;
-    font-size: 25px; /* Adjust the font size for mobile */
+    font-size: 15px; /* Adjust the font size for mobile */
     font-weight: 400;
     letter-spacing: 1.25px; /* Adjust the letter spacing for mobile */
   }

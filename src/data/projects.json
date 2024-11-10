@@ -17,14 +17,14 @@
     "title": "Battleship Game",
     "imageSrc": "projects/battleship.png",
     "description": "This is a project made to simulate a fully functional Battleship Game to handle player interactions and moves using OOP principals.",
-    "skills": ["Java", "OOP", "Exception Handling"],
+    "skills": ["Java", "Object Oriented Programming", "Exception Handling"],
     "demo": "https://github.com/DishaRevandkar/Battleship"
   },
   {
     "title": "Connect Four",
     "imageSrc": "projects/connect.png",
     "description": "This is a project made to simulate a fully functional Connect Four Game using the MVC Architecture and Graphical User Interface",
-    "skills": ["Java", "OOP", "Design Patterns", "JavaFX"],
+    "skills": ["Java", "Object Oriented Programming", "Design Patterns", "JavaFX"],
     "demo": "https://github.com/DishaRevandkar/ConnectFour"
   },
   {

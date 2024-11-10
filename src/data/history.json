@@ -6,7 +6,8 @@
     "endDate": "Present",
     "experiences": ["Developed an email builder using JavaScript and OpenAI API providing real-time suggestions that improved email quality by 45%",
     "Built a bulk email generation feature using Supabase, automating over 1,000 emails weekly and saving 18 hrs. weekly in manual effort",
-    "Created an email template generator based on subject lines, boosting customization, and increasing user retention by 30%", "Built the frontend using React resulting in 150 more user interactions per day, reflecting a significant boost in user engagement"],
+    "Created an email template generator based on subject lines, boosting customization, and increasing user retention by 30%", 
+    "Built the frontend using React resulting in 150 more user interactions per day, reflecting a significant boost in user engagement"],
     "imageSrc": "history/peeker.png"
   },
   {

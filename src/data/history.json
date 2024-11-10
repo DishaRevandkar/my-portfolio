@@ -1,12 +1,32 @@
 [
   {
-    "role": "SWE Intern",
+    "role": "Full Stack Engineer",
+    "organisation": "Wellness in Real Life (WIRL)",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": ["Developed an email builder using JavaScript and OpenAI API providing real-time suggestions that improved email quality by 45%",
+    "Built a bulk email generation feature using Supabase, automating over 1,000 emails weekly and saving 18 hrs. weekly in manual effort",
+    "Created an email template generator based on subject lines, boosting customization, and increasing user retention by 30%", "Built the frontend using React resulting in 150 more user interactions per day, reflecting a significant boost in user engagement"],
+    "imageSrc": "history/peeker.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Wellness in Real Life (WIRL)",
+    "startDate": "June, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Enhanced the UI by redesigning 15 elements using Figma and React, resulting in a 25% increase in user engagement and traffic",
+    "Designed and integrated 5 interactive quizzes with Google Analytics integration, increasing user participation by 17%",
+    "Led development of community platform for 200 users using Node.js to interact with health experts, boosting user retention"],
+    "imageSrc": "history/WIRL.png"
+  },
+  {
+    "role": "Software Engineering Intern",
     "organisation": "Reliance Jio Infocomm",
     "startDate": "Dec, 2019",
     "endDate": "Jan, 2020",
-    "experiences": ["Seamlessly integrated weather and market features into the chatbot, enhancing user engagement.",
-    "Rigorously tested multiple APIs using Postman for optimal functionality and reliability.",
-    "Designed conversational flow diagrams for an intuitive chatbot user experience."],
+    "experiences": ["Enhanced user experience by integrating weather and market features into the chatbot using Haptik, adding 2000 active users",
+    "Tested and optimized 10 APIs using Postman to ensure optimal functionality, performance, interoperability, and reliability",
+    "Designed conversational flow diagrams for chatbot, reducing user interaction time by 15% and improving communication efficiency"],
     "imageSrc": "history/reliance.png"
   },
   {

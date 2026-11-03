@@ -1,7 +1,7 @@
 [
   {
     "role": "AI Engineer",
-    "organisation": "iPeople Technology",
+    "organisation": "Stealth Startup",
     "startDate": "Dec, 2025",
     "endDate": "Present",
     "experiences": [
@@ -9,10 +9,10 @@
       "Developed a Python Q&A feature using the Claude API and RAG for support workflows, reducing ticket resolution time by 30%",
       "Improved an LLM-powered code review assistant by A/B testing prompt templates to reduce false-positive suggestions"
     ],
-    "imageSrc": "history/ipeople.png"
+    "imageSrc": "history/stealth.png"
   },
   {
-    "role": "Software Engineer, Full Stack & AI (Contract)",
+    "role": "Software Engineer, Full Stack & AI",
     "organisation": "Peeker AI",
     "startDate": "Sep, 2024",
     "endDate": "Aug, 2025",

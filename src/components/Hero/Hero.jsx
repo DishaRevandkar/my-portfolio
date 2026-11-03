@@ -9,8 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Disha</h1>
         <p className={styles.description}>
-        I am an AI engineer who builds LLM-powered products and computer
-        vision systems. Reach out if you would like to connect with me!
+        I'm an AI engineer who ships LLM-powered products and computer
+        vision systems, from RAG and agent workflows to privacy-first image
+        pipelines. I like taking ideas from prototype to production. Let's
+        connect!
         </p>
         <a href="mailto:disharevandkar@gmail.com" className={styles.contactBtn}>
           Contact Me

@@ -1,5 +1,37 @@
 [
   {
+    "title": "TypeScript",
+    "label": "TS"
+  },
+  {
+    "title": "PyTorch",
+    "label": "PT"
+  },
+  {
+    "title": "OpenCV",
+    "label": "CV"
+  },
+  {
+    "title": "Next.js",
+    "label": "N"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Supabase",
+    "label": "SB"
+  },
+  {
+    "title": "Docker",
+    "label": "DK"
+  },
+  {
+    "title": "GCP",
+    "label": "GCP"
+  },
+  {
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
@@ -8,20 +40,8 @@
     "imageSrc": "skills/java.png"
   },
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
     "title": "React",
     "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "SimpleDB",
-    "imageSrc": "skills/simpledb.png"
   },
   {
     "title": "Javascript",
@@ -50,9 +70,5 @@
   {
     "title": "GitHub",
     "imageSrc": "skills/github.png"
-  },
-  {
-    "title": "Postman",
-    "imageSrc": "skills/postman.png"
   }
-]
+]

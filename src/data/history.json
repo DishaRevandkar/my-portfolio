@@ -1,38 +1,48 @@
 [
   {
-    "role": "Full Stack Engineer",
-    "organisation": "Peeker AI",
-    "startDate": "Aug, 2024",
+    "role": "AI Engineer",
+    "organisation": "iPeople Technology",
+    "startDate": "Dec, 2025",
     "endDate": "Present",
     "experiences": [
-      "Developed an email builder using JavaScript and OpenAI API providing real-time suggestions that improved email quality by 45%",
-      "Built a bulk email generation feature using Supabase, automating over 1,000 emails weekly and saving 18 hrs. weekly in manual effort",
-      "Created an email template generator based on subject lines, boosting customization, and increasing user retention by 30%", 
-      "Built the frontend using React resulting in 150 more user interactions per day, reflecting a significant boost in user engagement"
+      "Automated a multi-step data validation workflow with LangGraph, eliminating 4 hours of manual QA effort per week",
+      "Developed a Python Q&A feature using the Claude API and RAG for support workflows, reducing ticket resolution time by 30%",
+      "Improved an LLM-powered code review assistant by A/B testing prompt templates to reduce false-positive suggestions"
+    ],
+    "imageSrc": "history/ipeople.png"
+  },
+  {
+    "role": "Software Engineer, Full Stack & AI (Contract)",
+    "organisation": "Peeker AI",
+    "startDate": "Sep, 2024",
+    "endDate": "Aug, 2025",
+    "experiences": [
+      "Shipped a real-time AI suggestion service for the email builder using the OpenAI API, with context-aware completions on highlighted text that reduced manual edits by 45%",
+      "Developed a React email template generator that personalizes drafts from subject lines, increasing template customization usage by 30%",
+      "Automated bulk email workflows in Supabase with concurrency and scheduling, saving 18+ hours of manual effort",
+      "Deployed infrastructure on GCP with CI/CD pipelines, cutting deployment time by 40% with zero-downtime rollouts"
     ],
     "imageSrc": "history/peeker.png"
   },
   {
-    "role": "Software Engineer",
+    "role": "Software Engineer Intern",
     "organisation": "Wellness in Real Life (WIRL)",
     "startDate": "June, 2024",
     "endDate": "Aug, 2024",
     "experiences": [
-      "Enhanced the UI by redesigning 15 elements using Figma and React, resulting in a 25% increase in user engagement and traffic",
-      "Designed and integrated 5 interactive quizzes with Google Analytics integration, increasing user participation by 17%",
-      "Led development of community platform for 200 users using Node.js to interact with health experts, boosting user retention"
+      "Migrated the website to React, redesigning 15 UI components and improving page load time by 22%",
+      "Developed a Node.js community platform connecting 180 new users with health experts for personalized guidance"
     ],
     "imageSrc": "history/WIRL.png"
   },
   {
-    "role": "Software Engineering Intern",
+    "role": "Software Developer Intern",
     "organisation": "Reliance Jio Infocomm",
-    "startDate": "Dec, 2019",
-    "endDate": "Jan, 2020",
+    "startDate": "Jan, 2021",
+    "endDate": "Apr, 2021",
     "experiences": [
-      "Enhanced user experience by integrating weather and market features into the chatbot using Haptik, adding 2000 active users",
-      "Tested and optimized 10 APIs using Postman to ensure optimal functionality, performance, interoperability, and reliability",
-      "Designed conversational flow diagrams for chatbot, reducing user interaction time by 15% and improving communication efficiency"
+      "Integrated weather and market data APIs into a Python chatbot, a feature used by 2,000+ active users",
+      "Designed the conversational flow for multi-step chatbot interactions, reducing average response time by 15%"
     ],
     "imageSrc": "history/reliance.png"
   },
@@ -49,4 +59,4 @@
     ],
     "imageSrc": "history/lti.png"
   }
-]
+]

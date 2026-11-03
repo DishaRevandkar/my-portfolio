@@ -50,6 +50,12 @@
   width: 75px;
 }
 
+.skillLabel {
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
 .skill p {
   font-size: 25px;
   font-family: var(--font-roboto);

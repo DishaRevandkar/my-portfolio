@@ -15,7 +15,11 @@ export const Skills = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  {skill.imageSrc ? (
+                    <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  ) : (
+                    <span className={styles.skillLabel}>{skill.label}</span>
+                  )}
                 </div>
                 <p>{skill.title}</p>
               </div>
@@ -25,4 +29,4 @@ export const Skills = () => {
       </div>
     </section>
   );
-};
+};
